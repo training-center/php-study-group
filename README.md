@@ -6,4 +6,4 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
 
 ## Livros
 
- - [PHP - Programando com Orientação a Objetos](/livros/PHP - Programando com Orientação a Objetos.pdf)
+ - [PHP - Programando com Orientação a Objetos](https://github.com/davidallysson/Grupo-de-Estudos-PHP-POO/blob/master/livros/PHP - Programando com Orientação a Objetos.pdf)
