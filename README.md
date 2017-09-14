@@ -7,7 +7,7 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
 # Livros
 
 # Estudos
-## Estudos PHP.
+### Estudos PHP.
 PHP Do Jeito Certo.
 http://br.phptherightway.com/
 
