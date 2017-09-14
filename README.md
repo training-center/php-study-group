@@ -2,7 +2,7 @@
 
 Repositório do grupo de estudos de PHP/POO do Training Center.
 
-# Slack <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# [Slack](https://ctgroups.herokuapp.com/)
 
 # Desafios
 
