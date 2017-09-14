@@ -17,4 +17,9 @@ http://br.phptherightway.com/
 PHP Estruturado.
 https://slack-redir.net/link?url=https%3A%2F%2Fwww.schoolofnet.com%2Fcurso-php-basico%2F
 
+# Dicas
+Carreira Back-end.
+https://github.com/abraphp/CarreiraPHP
+
+
 
