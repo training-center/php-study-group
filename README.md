@@ -55,6 +55,15 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
 
 - [A Semana PHP](http://asemanaphp.com.br/)
 
+# Comunidades
+- [PHP SP](http://phpsp.org.br/)
+- [PHP RS](http://www.phprs.com.br/)
+- [PHP BA](http://phpba.com.br/)
+
+# Eventos
+- [PHP Conference BR](http://phpconference.com.br/)
+- [PHP Experience](https://phpexperience2017.imasters.com.br/)
+
 # Dicas
 
  - [Carreira PHP](https://github.com/abraphp/CarreiraPHP)
