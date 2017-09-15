@@ -56,12 +56,19 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
 - [A Semana PHP](http://asemanaphp.com.br/)
 
 # Comunidades
-- [PHP SP](http://phpsp.org.br/)
-- [PHP RS](http://www.phprs.com.br/)
+
 - [PHP BA](http://phpba.com.br/)
+- [PHP PB](http://php-pb.net/)
+- [PHP Rio](http://phprio.org/)
+- [PHP RS](http://www.phprs.com.br/)
+- [PHP SC](http://www.phpsc.com.br/)
+- [PHP SP](http://phpsp.org.br/)
 
 # Eventos
+
+- [PHP Community Summity](https://eventos.locaweb.com.br/eventos-anteriores/php-community-summit-by-locaweb/)
 - [PHP Conference BR](http://phpconference.com.br/)
+- [PHPeste](https://phpeste.net/)
 - [PHP Experience](https://phpexperience2017.imasters.com.br/)
 
 # Dicas
