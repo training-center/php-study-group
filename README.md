@@ -74,3 +74,7 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
 # Dicas
 
  - [Carreira PHP](https://github.com/abraphp/CarreiraPHP)
+ 
+# Pautas Reuniões
+
+- [Lista de pautas das reuniões](https://github.com/richmanzoli/Grupo-de-Estudos-PHP-POO/tree/master/reunioes/pautas)
