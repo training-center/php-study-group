@@ -2,6 +2,8 @@
 
 Todos os desafios realizados pelo grupo de estudos PHP/POO - Training Center.
 
+Cada integrante do grupo de estudo PHP/POO do Training Center, deve criar no seu GitHub a resolução do desafio, para que se assim desejar, o mesmo possa apresentar sua resolução na próxima reunião do grupo.
+
 ## Modelos
 
 Todo arquivo de desafio deve ser criado dentro do diretório referente ao seu nível de dificuldade e data da próxima reunião.
