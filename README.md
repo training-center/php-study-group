@@ -86,4 +86,4 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
  
 # Pautas Reuniões
 
-- [Lista de pautas das reuniões](https://github.com/Diego-Brocanelli/Grupo-de-Estudos-PHP-POO/tree/master/reunioes/pautas)
+- <a href="/reunioes/pautas">Lista de pautas das reuniões</a>
