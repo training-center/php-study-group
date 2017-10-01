@@ -2,10 +2,10 @@
 
 Repositório do grupo de estudos de PHP/POO do Training Center.
 
-<img src="/img/logo-training-center-circle.png" alt="Training Center">
+<img src="/img/logo-training-center-circle.png" alt="Training Center"  width="200px">
 
 
-# [Slack](https://ctgroups.herokuapp.com/)<a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Slack <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
 # Desafios
 
