@@ -11,7 +11,7 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
 
 Repositório de desafios, realizados pelo Grupo de Estudos. Focado no aprendizado e aperfeiçoamento no PHP/POO.
 
-- Iniciante
+- <a href="/desafios/iniciante">Iniciante</a>
 - Intermediário
 - Avançado
 
