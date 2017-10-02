@@ -2,9 +2,18 @@
 
 Repositório do grupo de estudos de PHP/POO do Training Center.
 
-# [Slack](https://ctgroups.herokuapp.com/)
+<img src="/img/logo-training-center-circle.png" alt="Training Center"  width="200px">
+
+
+# Slack <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
 # Desafios
+
+<a href="/desafios">Repositório de desafios</a>, realizados pelo Grupo de Estudos. Focado no aprendizado e aperfeiçoamento no PHP/POO.
+
+- <a href="/desafios/iniciante">Iniciante</a>
+- <a href="/desafios/intermediario">Intermediário</a>
+- <a href="/desafios/avancado">Avançado</a>
 
 # Livros
 
@@ -77,4 +86,4 @@ Repositório do grupo de estudos de PHP/POO do Training Center.
  
 # Pautas Reuniões
 
-- [Lista de pautas das reuniões](https://github.com/richmanzoli/Grupo-de-Estudos-PHP-POO/tree/master/reunioes/pautas)
+- <a href="/reunioes/pautas">Lista de pautas das reuniões</a>
