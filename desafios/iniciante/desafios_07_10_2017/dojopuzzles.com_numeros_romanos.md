@@ -37,7 +37,7 @@ Agrupando as letras acima, podemos representar os números de acordo com um conj
 
 # Dicas
 
-- Fique atento as regras de calculo!
+- Fique atento as regras de cálculo!
 
 # Resultado esperado
 
