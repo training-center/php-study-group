@@ -15,7 +15,7 @@ Dada uma URL, desenvolva um programa que indique se a URL é válida ou não e, 
 #### Exemplo:
 
 - **Entrada:** 
-    - http://www.google.com/mail/user=fulano
+    - http://www.google.com/mail?user=fulano
 - **Saída**
     - protocolo: http
     - host: www
