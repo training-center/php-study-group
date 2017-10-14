@@ -2,6 +2,8 @@
 
 ### [dojopuzzles.com - Analisando URLs](http://dojopuzzles.com/problemas/exibe/analisando-urls/)
 
+**Nível:** Iniciante
+
 # Desafio
 
 Dada uma URL, desenvolva um programa que indique se a URL é válida ou não e, caso seja válida, retorne as suas partes constituintes.
