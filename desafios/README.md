@@ -12,18 +12,36 @@ Para criação do arquivo do desafio, favor seguir <a href="modelo_desafio.md">t
 
 ### Nome do diretório
 
-Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados.
+Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados. O nome contém uma sequência numérica incremental.
 
-- desafios_dd_mm_yyyy
+- desafios_00
 
 ### Nome do arquivo referente ao desafio.
 
 Todo desafio deve ser criado dentro do diretório referente a **próxima reunião**.
 
 - Criação do arquivo .md do desafio.
-	- nome_do_site_nome_do_desafio.md
+    - nome_do_site_nome_do_desafio.md
+
+### Arquivo README.md
+
+**Data reunião:** dd/mm/yyyy
+
+**Hora Inicial:** 21:00
+
+**Hora Final:** 22:00
+
+**Local**: Hangout
+
+**Pauta:**
+- Assunto 01
+- Assunto 02
+- Assunto 03
+- Assunto 04
+- ...
 
 ## Exemplo
-	
-	- Diretório: desafios_01_10_2017 
-		- Arquivo: desafios.com_quebra_cabeca.md
+    
+    - Diretório: desafios_99 
+        - README.md
+        - desafios.com_quebra_cabeca.md
