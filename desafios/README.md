@@ -12,7 +12,7 @@ Para criação do arquivo do desafio, favor seguir <a href="modelo_desafio.md">t
 
 ### Nome do diretório
 
-Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados. O nome comtém uma sequencia numérica incremental.
+Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados. O nome contém uma sequência numérica incremental.
 
 - desafios_00
 
@@ -21,7 +21,7 @@ Para toda nova reunião deverá ser criado o diretório onde conterá os desafio
 Todo desafio deve ser criado dentro do diretório referente a **próxima reunião**.
 
 - Criação do arquivo .md do desafio.
-	- nome_do_site_nome_do_desafio.md
+    - nome_do_site_nome_do_desafio.md
 
 ### Arquivo README.md
 
@@ -41,7 +41,7 @@ Todo desafio deve ser criado dentro do diretório referente a **próxima reuniã
 - ...
 
 ## Exemplo
-	
-	- Diretório: desafios_99 
-		- README.md
-		- desafios.com_quebra_cabeca.md
+    
+    - Diretório: desafios_99 
+        - README.md
+        - desafios.com_quebra_cabeca.md
