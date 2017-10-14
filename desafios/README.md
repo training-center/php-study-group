@@ -6,7 +6,7 @@ Cada integrante do grupo de estudo PHP/POO do Training Center, deve criar no seu
 
 ## Modelos
 
-Todo arquivo de desafio deve ser criado dentro do diretório referente ao seu nível de dificuldade e data da próxima reunião.
+Todo arquivo de desafio deve ser criado dentro do diretório referente ao seu nível de dificuldade e com **data da próxima reunião**.
 
 Para criação do arquivo do desafio, favor seguir <a href="modelo_desafio.md">template modelo</a>.
 
@@ -14,11 +14,11 @@ Para criação do arquivo do desafio, favor seguir <a href="modelo_desafio.md">t
 
 Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados.
 
-- desafios_00_00_0000
+- desafios_dd_mm_yyyy
 
 ### Nome do arquivo referente ao desafio.
 
-Todo desafio deve ser criado dentro do diretório referente a próxima reunião.
+Todo desafio deve ser criado dentro do diretório referente a **próxima reunião**.
 
 - Criação do arquivo .md do desafio.
 	- nome_do_site_nome_do_desafio.md
