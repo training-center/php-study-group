@@ -12,7 +12,7 @@ Para criação do arquivo do desafio, favor seguir <a href="modelo_desafio.md">t
 
 ### Nome do diretório
 
-Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados. O nome comtém uma sequencial numérica incremental.
+Para toda nova reunião deverá ser criado o diretório onde conterá os desafios a serem realizados. O nome comtém uma sequencia numérica incremental.
 
 - desafios_00
 
