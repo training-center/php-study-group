@@ -2,6 +2,8 @@
 
 ### [nomedosite.com - Título do desafio]()
 
+**Nível:** Iniciante|Itermediário|Avançado
+
 # Desafio
 
 Local destinado ao enunciado do desafio.
