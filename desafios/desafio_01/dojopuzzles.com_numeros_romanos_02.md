@@ -2,6 +2,8 @@
 
 ### [dojopuzzles.com - Números Romanos](http://dojopuzzles.com/problemas/exibe/numeros-romanos/)
 
+**Nível:** Iniciante
+
 # Desafio
 
 O sistema de numeração romana (ou números romanos) desenvolveu-se na Roma Antiga e utilizou-se em todo o seu Império. Neste sistema as cifras escrevem-se com determinadas letras, que representam os números. As letras são sempre maiúsculas, já que no alfabeto romano não existem as minúsculas, as letras são I, V, X, L, C, D e M.
