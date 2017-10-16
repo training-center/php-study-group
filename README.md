@@ -6,7 +6,7 @@
 
 Somos uma comunidade aberta com o foco em desenvolver o conhecimento em PHP e POO.
 
-Fazemos parte do Grupo de Estudos, uma iniciativa do <a href="https://github.com/training-center">Training Center</a> para fomenta o conhecimento para a comunidade.
+Fazemos parte do <a href="https://github.com/training-center/study-groups">Grupo de Estudos</a>, uma iniciativa do <a href="https://github.com/training-center">Training Center</a> para fomenta o conhecimento para a comunidade.
 
 # Grupos de Estudos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
