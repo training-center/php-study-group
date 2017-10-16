@@ -1,89 +1,62 @@
 # Grupo de Estudos PHP/POO
 
-Repositório do grupo de estudos de PHP/POO do Training Center.
+### Bem vindo ao ao Grupo de estudos de PHP/POO do Training Center.
 
-<img src="/img/logo-training-center-circle.png" alt="Training Center"  width="200px">
+Somos uma comunidade aberta com o foco em desenvolver o conhecimento em PHP e POO.
 
+Fazemos parte do Grupo de Estudos, uma iniciativa para fomenta o conhecimento para a comunidade.
 
-# Slack <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Grupos de Estudos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
-# Desafios
+**Projeto voltado para pessoas que desejam aprender ou compartilhar o que sabem**
 
-<a href="/desafios">Repositório de desafios</a>, realizados pelo Grupo de Estudos. Focado no aprendizado e aperfeiçoamento no PHP/POO.
+Um local para treinar suas habilidades com outros desenvolvedores da comunidade.
 
-- <a href="/desafios/iniciante">Iniciante</a>
-- <a href="/desafios/intermediario">Intermediário</a>
-- <a href="/desafios/avancado">Avançado</a>
+Aqui podemos fazer qualquer coisa e todos podem colaborar.
 
-# Livros
+<ul>
+<li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
+<li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
+<li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
+<li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
+<li><a href="https://bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
+<li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
+</ul>
 
-- Impressos   
-    - [PHP Programando com Orientação a Objetos - 3ª Edição.](https://novatec.com.br/livros/php-orientacao-objetos-3ed/)
-- eBooks
-    - [CodeIgniter Produtividade na criação de aplicações web em PHP](https://www.casadocodigo.com.br/products/livro-code-igniter)
-    - [Desenvolvimento web com PHP e MySQL ](https://www.casadocodigo.com.br/products/livro-php-mysql)
-    - [Doctrine na prática](https://leanpub.com/doctrine-na-pratica)
-    - [Iniciando com o Zend Framework 2](https://leanpub.com/iniciando-zf2)
-    - [PHP e Laravel Crie aplicações web como um verdadeiro artesão](https://www.casadocodigo.com.br/products/livro-laravel-php)
-    - [Test-Driven Development Teste e Design no Mundo Real com PHP](https://www.casadocodigo.com.br/products/livro-tdd-php)
-    - [Zend Certified Engineer Descomplicando a certificação PHP](https://www.casadocodigo.com.br/products/livro-certificacao-php)
-    - [Zend Framework 2 na prática](https://leanpub.com/zend-framework2-na-pratica)
+Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
-# Cursos Online
+<img src="/img/logo-training-center-circle.png" alt="Training Center" width="200px">
 
-- Gratuitos
-    - Básico
-        - [Curso em Vídeo - PHP](https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
-        - [PHP Estruturado](https://www.schoolofnet.com/curso-php-basico/)
-    - Intermediário
-    - Avançado
-- Pagos
-    - Básico
-        - [CodeIgniter I: Programando elegantemente para a web](https://www.alura.com.br/curso-online-codeigniter)
-        - [Laravel: facilitando o desenvolvimento PHP](https://www.alura.com.br/curso-online-laravel)
-        - [Laravel II: Mais técnicas e webapps poderosas](https://www.alura.com.br/curso-online-laravel-2)
-        - [PHP e MySQL I: Fundamentos para criar um sistema na Web](https://www.alura.com.br/curso-online-php-mysql-e-fundamentos-da-web)
-        - [PHP e MySQL II: Cookies, sessões e mais recursos](https://www.alura.com.br/curso-online-php-mysql-e-fundamentos-da-web-parte-2)
-        - [PHP I: Orientação a objetos com sua linguagem preferida](https://www.alura.com.br/curso-online-php-oo-1)
-        - [Testes: TDD com PHP](https://www.alura.com.br/curso-online-testes-com-php-unit)
-        - [Zend Framework: Mais prática do seu framework predileto](https://www.alura.com.br/curso-online-php-com-zend-framework-parte-1)
-        - [Zend Framework: Seu desenvolvimento PHP acelerado](https://www.alura.com.br/curso-online-php-com-zend-framework-parte-2)
-    - Intermediário
-        - [Design Patterns PHP I: Boas práticas de programação](https://www.alura.com.br/curso-online-design-pattern-php)
-        - [Design Patterns PHP II: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-php-2)
-        - [PHP II: Avançando com Orientação a objetos ](https://www.alura.com.br/curso-online-php-oo-2) 
-    - Avançado
-        - [SOLID com PHP: Orientação a Objetos com PHP](https://www.alura.com.br/curso-online-orientacao-a-objetos-avancada-e-principios-solid-php)
+# Material Grupo de Estudos
 
-# Sites
+### Reuniõe
 
-- [PHP - Documentação oficial](http://php.net/)
-- [PHP Do Jeito Certo.](http://br.phptherightway.com/)
+- Pautas
+    - Lista de pautas das reuniões do grupo de estudos.
+- Desafios
+    - Lista de desafios realizados pelo grupo de estudos, com a finalidade de trazer a parte prática mais perto da comunidade.
 
-# Newsletter
+# Material de Apoio
 
-- [A Semana PHP](http://asemanaphp.com.br/)
+### Livros
 
-# Comunidades
+Lista de livros (gratuitos e pagos) para auxiliar no aprendizado.
 
-- [PHP BA](http://phpba.com.br/)
-- [PHP PB](http://php-pb.net/)
-- [PHP Rio](http://phprio.org/)
-- [PHP RS](http://www.phprs.com.br/)
-- [PHP SC](http://www.phpsc.com.br/)
-- [PHP SP](http://phpsp.org.br/)
+### Comunidade
 
-# Eventos
+Acesse nosso acervo de links para referência para as comunidades PHP pt_br.
 
-- [PHP Community Summity](https://eventos.locaweb.com.br/eventos-anteriores/php-community-summit-by-locaweb/)
-- [PHP Conference BR](http://phpconference.com.br/)
-- [PHPeste](https://phpeste.net/)
-- [PHP Experience](https://phpexperience2017.imasters.com.br/)
+### Cursos
 
-# Dicas
+Lista de cursos (gratuitos e pagos) para auxiliar no aprendizado.
 
- - [Carreira PHP](https://github.com/abraphp/CarreiraPHP)
- 
-# Pautas Reuniões
+### Eventos
 
-- <a href="/reunioes/pautas">Lista de pautas das reuniões</a>
+Lista dos principais eventos da comunidade PHP.
+
+### Newsletters
+
+Acesse nosso acervo de links para newsletters.
+### Sites
+
+Lista de sites relevantes para a comunidade PHP.
