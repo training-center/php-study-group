@@ -6,7 +6,7 @@
 
 Somos uma comunidade aberta com o foco em desenvolver o conhecimento em PHP e POO.
 
-Fazemos parte do <a href="https://github.com/training-center/study-groups">Grupo de Estudos</a>, uma iniciativa do <a href="https://github.com/training-center">Training Center</a> para fomenta o conhecimento para a comunidade.
+Fazemos parte do [Grupo de Estudos](https://github.com/training-center/study-groups), uma iniciativa do [Training Center](https://github.com/training-center) para fomentar o conhecimento para a comunidade.
 
 # Grupos de Estudos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
@@ -27,36 +27,36 @@ Aqui podemos fazer qualquer coisa e todos podem colaborar.
 
 Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
 
-# Material Grupo de Estudos
+# Material do Grupo de Estudos
 
 ### Reuniões
 
-- <a href="/material_grupo_estudo/reunioes/pautas">Pautas</a>
+- [Pautas](/material_grupo_estudo/reunioes/pautas)
     - Lista de pautas das reuniões do grupo de estudos.
-- <a href="/material_grupo_estudo/reunioes/desafios">Desafios</a>
+- [Desafios](/material_grupo_estudo/reunioes/desafios)
     - Lista de desafios realizados pelo grupo de estudos, com a finalidade de trazer a parte prática mais perto da comunidade.
 
 # Material de Apoio
 
-### <a href="/material_de_apoio/livros">Livros</a>
+### [Livros](/material_de_apoio/livros)
 
 Lista de livros (gratuitos e pagos) para auxiliar no aprendizado.
 
-### <a href="/material_de_apoio/comunidades">Comunidades</a>
+### [Comunidades](/material_de_apoio/comunidades)
 
 Acesse nosso acervo de links para referência para as comunidades PHP pt_br.
 
-### <a href="/material_de_apoio/cursos">Cursos</a>
+### [Cursos](/material_de_apoio/cursos)
 
 Lista de cursos (gratuitos e pagos) para auxiliar no aprendizado.
 
-### <a href="/material_de_apoio/eventos">Eventos</a>
+### [Eventos](/material_de_apoio/eventos)
 
 Lista dos principais eventos da comunidade PHP.
 
-### <a href="/material_de_apoio/newsletters">Newsletters</a>
+### [Newsletters](/material_de_apoio/newsletters)
 
 Acesse nosso acervo de links para newsletters.
-### <a href="/material_de_apoio/livros">Sites</a>
+### [Sites](/material_de_apoio/livros)
 
 Lista de sites relevantes para a comunidade PHP.
