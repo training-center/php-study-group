@@ -1,6 +1,8 @@
 # Grupo de Estudos PHP/POO
 
-<img src="/img/logo-training-center-circle.png" alt="Training Center" width="200px">
+<p align="center">
+    <img src="/img/logo-training-center-blue-256.jpg" alt="Training Center" width="200px">
+</p>
 
 ### Bem vindo ao ao Grupo de estudos de PHP/POO do Training Center.
 
