@@ -1,64 +1,35 @@
-# Grupo de Estudos PHP/POO
+Repositório do grupo de estudos sobre PHP/POO do [Training Center](https://training-center.github.io).
 
 <p align="center">
-    <img src="/img/logo-training-center-blue-256.jpg" alt="Training Center" width="200px">
+  <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
 </p>
 
-### Bem vindo ao ao Grupo de estudos de PHP/POO do Training Center.
+## Como funciona
 
-Somos uma comunidade aberta com o foco em desenvolver o conhecimento em PHP e POO.
+Este grupo se destina ao estudo de PHP/POO.
 
-Fazemos parte do [Grupo de Estudos](https://github.com/training-center/study-groups), uma iniciativa do [Training Center](https://github.com/training-center) para fomentar o conhecimento para a comunidade.
+Conforme [outros grupos de estudos](https://github.com/training-center/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos reuniões semanais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
 
-# Grupos de Estudos <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/images/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+## Como participar
 
-**Projeto voltado para pessoas que desejam aprender ou compartilhar o que sabem**
+Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#php-studies**.
 
-Um local para treinar suas habilidades com outros desenvolvedores da comunidade.
 
-Aqui podemos fazer qualquer coisa e todos podem colaborar.
+## Reuniões
 
-<ul>
-<li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
-<li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
-<li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
-<li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
-<li><a href="https://bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
-<li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
-</ul>
+- [pauta](/material_grupo_estudo/reunioes/pautas)
+- [ata](/material_grupo_estudo/ata)
 
-Se você nunca mexeu com Git e GitHub, nós recomendamos que você faça esse curso (gratuito e sensacional) do [@willianjusten](https://github.com/willianjusten), pois nós utilizamos o GitHub para quase tudo o que fazemos e você vai imergir nesse mundo junto conosco: [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/).
+## Material de apoio ao grupo de estudos
 
-# Material do Grupo de Estudos
+- [trilha de estudos](material_de_apoio/roadmap)
+- [livros](/material_de_apoio/livros)
+- [comunidades](/material_de_apoio/comunidades)
+- [cursos](/material_de_apoio/cursos)
+- [eventos](/material_de_apoio/eventos)
+- [newsletters](/material_de_apoio/newsletters)
+- [sites](/material_de_apoio/livros)
 
-### Reuniões
+## Responsáveis
 
-- [Pautas](/material_grupo_estudo/reunioes/pautas)
-    - Lista de pautas das reuniões do grupo de estudos.
-- [Desafios](/material_grupo_estudo/reunioes/desafios)
-    - Lista de desafios realizados pelo grupo de estudos, com a finalidade de trazer a parte prática mais perto da comunidade.
-
-# Material de Apoio
-
-### [Livros](/material_de_apoio/livros)
-
-Lista de livros (gratuitos e pagos) para auxiliar no aprendizado.
-
-### [Comunidades](/material_de_apoio/comunidades)
-
-Acesse nosso acervo de links para referência para as comunidades PHP pt_br.
-
-### [Cursos](/material_de_apoio/cursos)
-
-Lista de cursos (gratuitos e pagos) para auxiliar no aprendizado.
-
-### [Eventos](/material_de_apoio/eventos)
-
-Lista dos principais eventos da comunidade PHP.
-
-### [Newsletters](/material_de_apoio/newsletters)
-
-Acesse nosso acervo de links para newsletters.
-### [Sites](/material_de_apoio/livros)
-
-Lista de sites relevantes para a comunidade PHP.
+Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@Diego Brocanelli` no Slack do Training Center.
