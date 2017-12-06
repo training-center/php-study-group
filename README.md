@@ -14,7 +14,6 @@ Conforme [outros grupos de estudos](https://github.com/training-center/study-gro
 
 Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#php-studies**.
 
-
 ## Reuniões
 
 - [pauta](/material_grupo_estudo/reunioes/pautas)
