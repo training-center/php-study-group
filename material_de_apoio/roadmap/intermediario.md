@@ -1,0 +1,45 @@
+# Nível: Intermediário
+
+Os tópicos abaixo foram pensados na melhor maneira para subir de nível e utilizar os principais recursos da OOP e padrões da comuniadde PHP.
+
+- ***Principais tópicos***
+    - PHP Orientado a Objetos (POO).
+        - O que é POO.
+        - Classes
+        - Métodos
+            - Conceito base
+            - Métodos construtores
+            - Métodos destrutores
+        - Relacionamento entre objetos
+            - Associação.
+            - Composição.
+            - Agregação.
+        - Herança
+        - Polimorfismo
+        - Abstração
+            - Classes abstratas
+            - Classes finais
+            - Métodos abstratos
+            - Métodos finais
+        - Encapsulamento
+            - Public
+            - Protecte
+            - Provate
+        - Membros de classe
+            - Constantes.
+            - Atributos estáticos.
+            - Métodos estáticos.
+        - Interfaces
+        - Métodos mágicos
+    - PDO
+        - CRUD
+            - Create (Inserção)
+            - Read (Leitura)
+            - Update (Atualização)
+            - Delete (Deleção)
+    - Tratamento de exceções.
+    - PSR's
+        - PSR - 1
+        - PSR - 2
+        - PSR - 3
+        - PSR - 4

@@ -1,0 +1,64 @@
+# Nível: Avançado
+
+Os tópicos abaixo foram pensados na melhor maneira para fortalecer qualidade e produtividade.
+
+- ***Principais tópicos***
+    - Design Pattern
+        - Criacionais
+            - Singleton
+            - Abstract Factory
+            - Builder
+            - Prototype
+            -  Factory Mathod
+        - Estruturais
+            - Decorator
+            - Proxy
+            - FlyWeigth
+            - Facade
+            - Composite
+            - Bridge
+            - Adapter
+        - Comportamental
+            - Template Method
+            - Visitor
+            - Command
+            - Strategy
+            - Chair of Responsability
+            - Iterator
+            - Mediator
+            - Memento
+            - Interpreter
+            - State
+            - Observer
+    - Princípios de Design
+        - Keep It Simple Stupid (KISS).
+            - Mantenha Isto Estupidamente Simples.
+        - Don’t Repeat Yourself (DRY)
+            - Não Repita Você Mesmo.
+        - Tell, Don’t Ask
+            - Fale, não pergunte.
+        - You Ain’t Gonna Need It (YAGNI).
+            - Você Não Vai precisar Disso.
+        - Separation Of Concerns (SoC)
+            - Separação de Responsabilidades
+    - Clean Code
+        - Código ruim.
+        - Nomes significativos.
+        - Funções
+        - Comentários
+        - Odores e Heurísticas
+    - Test Driven Design (TDD)
+    - Reflection
+    - Traits
+    - SPL
+    - Gerenciamento de dependências
+        - Composer
+    - Arquitetura
+        - MVC
+        - Middleware
+    - PSR's
+        - PSR - 6
+        - PSR - 7
+        - PSR - 11
+        - PSR - 13
+        - PSR - 16
