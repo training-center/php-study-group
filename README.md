@@ -28,7 +28,7 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 - [eventos](/material_de_apoio/eventos)
 - [newsletters](/material_de_apoio/newsletters)
 - [sites](/material_de_apoio/livros)
-- [RoadMap](/material_de_aopio/roadmap)
+- [RoadMap](/material_de_apoio/roadmap)
 
 ## Responsáveis
 
