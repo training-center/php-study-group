@@ -1,6 +1,6 @@
 # Nível: Intermediário
 
-Os tópicos abaixo foram pensados na melhor maneira para subir de nível e utilizar os principais recursos da OOP e padrões da comuniadde PHP.
+Os tópicos abaixo foram pensados na melhor maneira para subir de nível e utilizar os principais recursos da OOP e padrões da comunidade PHP.
 
 - ***Principais tópicos***
     - PHP Orientado a Objetos (POO).
@@ -23,7 +23,7 @@ Os tópicos abaixo foram pensados na melhor maneira para subir de nível e utili
             - Métodos finais
         - Encapsulamento
             - Public
-            - Protecte
+            - Protected
             - Provate
         - Membros de classe
             - Constantes.

@@ -8,7 +8,7 @@ Os tópicos abaixo foram pensados na melhor maneira para se iniciar com os etudo
         - Linux
         - Mac
         - Windows
-    - Difefinições e diferenças entre Client Side e Server Side.
+    - Definições e diferenças entre Client Side e Server Side.
     - Variáveis
         - Booleano
         - Numérico
