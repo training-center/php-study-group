@@ -17,7 +17,7 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 ## Reuniões
 
 - [pauta](/material_grupo_estudo/reunioes/pautas)
-- [ata](/material_grupo_estudo/ata)
+- [ata](/material_de_apoio/ata)
 
 ## Material de apoio ao grupo de estudos
 
@@ -28,6 +28,7 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 - [eventos](/material_de_apoio/eventos)
 - [newsletters](/material_de_apoio/newsletters)
 - [sites](/material_de_apoio/livros)
+- [RoadMap](/material_de_aopio/roadmap)
 
 ## Responsáveis
 
