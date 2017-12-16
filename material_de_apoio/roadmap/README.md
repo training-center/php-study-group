@@ -1,6 +1,6 @@
 # RoadMap do grupo de estudos
 
-Este docuemnto é vivo, onde todo membro do grupo de estudos pode propor:
+Este documento é vivo, onde todo membro do grupo de estudos pode propor:
  - Inclusões.
  - Alterações
  - Atualizações.
