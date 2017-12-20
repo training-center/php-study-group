@@ -27,7 +27,7 @@ Basta entrar no [Slack do Training Center](https://github.com/training-center/sl
 - [cursos](/material_de_apoio/cursos)
 - [eventos](/material_de_apoio/eventos)
 - [newsletters](/material_de_apoio/newsletters)
-- [sites](/material_de_apoio/livros)
+- [sites](/material_de_apoio/sites)
 - [RoadMap](/material_de_apoio/roadmap)
 
 ## Responsáveis
