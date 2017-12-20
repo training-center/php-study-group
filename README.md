@@ -12,12 +12,12 @@ Conforme [outros grupos de estudos](https://github.com/training-center/study-gro
 
 ## Como participar
 
-Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#php-studies**.
+Basta entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#php-studies**.
 
 ## Reuniões
 
 - [pauta](/material_grupo_estudo/reunioes/pautas)
-- [ata](/material_grupo_estudo/ata)
+- [ata](/material_de_apoio/ata)
 
 ## Material de apoio ao grupo de estudos
 
@@ -28,6 +28,7 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 - [eventos](/material_de_apoio/eventos)
 - [newsletters](/material_de_apoio/newsletters)
 - [sites](/material_de_apoio/livros)
+- [RoadMap](/material_de_apoio/roadmap)
 
 ## Responsáveis
 
