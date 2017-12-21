@@ -4,7 +4,7 @@ Repositório destinado a armazenar todas as pautas das reuniões realizadas pelo
 
 - ***Resumo das reuniões***
     - [4º Reunião](4_reuniao_13_12_2017.md)
-        - Primeira reunião do Grupo de Estudos.
+        - Quarta reunião do Grupo de Estudos.
             - Síntese da reunião:
                 - Metodologia de estudos 
                 - Periodicidade
@@ -12,11 +12,11 @@ Repositório destinado a armazenar todas as pautas das reuniões realizadas pelo
                 - Documentação
                 - Divulgação
     - [3º Reunião](3_reuniao_22_11_2017.md)
-        - Primeira reunião do Grupo de Estudos.
+        - Terceira reunião do Grupo de Estudos.
             - Síntese da reunião:
                 - A reunião será remarcada devido a ausência de participantes.
     - [2º Reunião](2_reuniao_25_10_2017.md)
-        - Primeira reunião do Grupo de Estudos.
+        - Segunda reunião do Grupo de Estudos.
             - Síntese da reunião:
                 - Apresentação do membros do grupo.
                 - Apresentação dos desafios.
