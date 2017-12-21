@@ -24,7 +24,7 @@ Os tópicos abaixo foram pensados na melhor maneira para subir de nível e utili
         - Encapsulamento
             - Public
             - Protected
-            - Provate
+            - Private
         - Membros de classe
             - Constantes.
             - Atributos estáticos.
