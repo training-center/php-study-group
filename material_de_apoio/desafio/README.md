@@ -1,23 +1,46 @@
-# Desafio Agenda de Compromisso
+# Projeto: Calculadora de IMC
 
 
-***Recomendações:***  
-Basico de PHP  
-Download do Formulario para o Desafio: [Calculadora IMC]()
+## Nível: Iniciante  
 
 
-***Objetivo:***  
-Desenvolvedor uma aplicação de calculo de IMC utilizando os conhecimentos que voce ganhou realizando os cursos basico de php, caso voce ainda nao tenha feito, volte e veja nesse link : [php-study-group](https://github.com/training-center/php-study-group/tree/master/material_de_apoio/cursos)  
+### Calculadora de IMC  
 
+###### Descrição  
 
+Desenvolver uma aplicação de calculo de IMC utilizando os conhecimentos adquiridos referente ao [RoadMap de nível Iniciante.](https://github.com/training-center/php-study-group/blob/master/material_de_apoio/roadmap/iniciante.md)
+Caso você desconheça ou ainda não tenha feito, pode acessar o [RoadMap do grupo de estudos de PHP/POO.](https://github.com/training-center/php-study-group/tree/master/material_de_apoio/roadmap)
 
-***Inicio:***  
-1. Pegar os valores que foram passados no formulario e colocar em uma variavel 
-2. Realizar a conta para o Resultado do IMC
-2. Usar ForEach para listar o array que veio do formulario.
+__Objetivo__  
+Construção de uma aplicação para realizar o cálculo de IMC.
 
-***Algoritmo para o Desafio:***  
-IMC ← Peso / (Altura * Altura");  
+## Material de apoio
+Para realização do projeto, [encontra-se disponível para download o formulário base]() para implementação do projeto.
 
-***Duvidas:***  
-Entre em contato pelo slack do Training Center nesse [link](https://ctgroups.herokuapp.com/)  
+__Metodologia para desenvolvimento__
+
+1. Receber os valores que foram enviados pelo formulário.  
+2. Realizar o cálculo do IMC.  
+3. Exibir o resultado para o usuário.  
+
+__Algoritmo para o Desafio:__
+
+ `IMC = Peso / (Altura * Altura); `  
+
+__Tabela de IMC__
+
+Resultado | Situação
+--------- | --------:
+Abaixo de 17 | Muito abaixo do peso
+Entre 17 e 18,49 | Abaixo do peso
+Entre 18,5 e 24,99 | Peso normal
+Entre 25 e 29,99 | Acima do peso
+Entre 30 e 34,99 | Obesidade I
+Entre 35 e 39,99 | Obesidade II (severa)
+Acima de 40 |	Obesidade III (mórbida)
+
+__Em caso de dúvida:__
+
+*Acessar o o grupo de estudos no [Slack do Training Center](https://github.com/training-center/slack)
+* Channel: #php-studies   
+* Buscar por @DiegoBrocanelli ( isso só como exemplo :) )
