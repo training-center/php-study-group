@@ -15,7 +15,7 @@ __Objetivo__
 Construção de uma aplicação para realizar o cálculo de IMC.
 
 ## Material de apoio
-Para realização do projeto, [encontra-se disponível para download o formulário base](/material_de_apoio/formulario_calculadora_imc.zip) para implementação do projeto.
+Para realização do projeto, [encontra-se disponível para download o formulário base](/material_de_apoio/desafios/projetos/iniciante/calculadora_imc/material_de_apoio/formulario_calculadora_imc.zip) para implementação do projeto.
 
 __Metodologia para desenvolvimento__
 

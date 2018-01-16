@@ -1,6 +1,6 @@
 # Projetos práticos
 
-Repositório de projetos práticos para serem desenvolvidos em conjunto com os estudos do RoadMap.
+Repositório de projetos práticos para serem desenvolvidos em conjunto com os estudos do [RoadMap](/material_de_apoio/roadmap).
 
 ## Níveis
 
