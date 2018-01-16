@@ -5,6 +5,6 @@ Repositório de projetos práticos para serem desenvolvidos em conjunto com os e
 ## Níveis
 
 - Iniciante
-    - [Calculadora de IMC](/iniciante/calculadora_imc/README.md)
+    - [Calculadora de IMC](/material_de_apoio/desafios/projetos/iniciante/calculadora_imc/README.md)
 - Intermediário
 - Avançado
