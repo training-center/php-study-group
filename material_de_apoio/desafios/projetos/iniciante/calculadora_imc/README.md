@@ -44,3 +44,7 @@ __Em caso de dúvida:__
 - Acessar o o grupo de estudos no [Slack do Training Center](https://github.com/training-center/slack)
     - Channel: #php-studies   
         - Buscar por `@DiegoBrocanelli`
+
+__Repositórios de membros do grupo de estudos que implementaram o projeto__
+
+- [Diego Brocanelli](https://github.com/Diego-Brocanelli/projeto-calculadora-de-imc)
