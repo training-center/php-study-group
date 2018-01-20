@@ -6,16 +6,16 @@
 
 ### Calculadora de IMC  
 
-###### Descrição  
+__Descrição__
 
 Desenvolver uma aplicação de calculo de IMC utilizando os conhecimentos adquiridos referente ao [RoadMap de nível Iniciante.](https://github.com/training-center/php-study-group/blob/master/material_de_apoio/roadmap/iniciante.md)
 Caso você desconheça ou ainda não tenha feito, pode acessar o [RoadMap do grupo de estudos de PHP/POO.](https://github.com/training-center/php-study-group/tree/master/material_de_apoio/roadmap)
 
-__Objetivo__  
+__Objetivo__
 Construção de uma aplicação para realizar o cálculo de IMC.
 
 ## Material de apoio
-Para realização do projeto, [encontra-se disponível para download o formulário base]() para implementação do projeto.
+Para realização do projeto, [encontra-se disponível para download o formulário base](/material_de_apoio/desafios/projetos/iniciante/calculadora_imc/material_de_apoio/formulario_calculadora_imc.zip) para implementação do projeto.
 
 __Metodologia para desenvolvimento__
 
@@ -41,6 +41,10 @@ Acima de 40 |	Obesidade III (mórbida)
 
 __Em caso de dúvida:__
 
-*Acessar o o grupo de estudos no [Slack do Training Center](https://github.com/training-center/slack)
-* Channel: #php-studies   
-* Buscar por @DiegoBrocanelli ( isso só como exemplo :) )
+- Acessar o o grupo de estudos no [Slack do Training Center](https://github.com/training-center/slack)
+    - Channel: #php-studies   
+        - Buscar por `@DiegoBrocanelli`
+
+__Repositórios de membros do grupo de estudos que implementaram o projeto__
+
+- [Diego Brocanelli](https://github.com/Diego-Brocanelli/projeto-calculadora-de-imc)
