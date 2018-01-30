@@ -48,3 +48,4 @@ __Em caso de dúvida:__
 __Repositórios de membros do grupo de estudos que implementaram o projeto__
 
 - [Diego Brocanelli](https://github.com/Diego-Brocanelli/projeto-calculadora-de-imc)
+- [Mayron Ceccon](https://github.com/mayronceccon/grupo-estudos-php-calculadora-imc)
