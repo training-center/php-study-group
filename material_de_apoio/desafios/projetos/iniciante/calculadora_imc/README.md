@@ -50,4 +50,5 @@ __Repositórios de membros do grupo de estudos que implementaram o projeto__
 - [Diego Almeida](https://github.com/dyhalmeida/calculadora-imc)
 - [Diego Brocanelli](https://github.com/Diego-Brocanelli/projeto-calculadora-de-imc)
 - [Jeyziel Gama](https://github.com/jeyziel/IMC)
+- [Lucas Ferreira] (https://github.com/lucassantos61/calculadoraDeIMC)
 - [Mayron Ceccon](https://github.com/mayronceccon/grupo-estudos-php-calculadora-imc)
