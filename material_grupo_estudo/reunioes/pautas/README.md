@@ -3,10 +3,19 @@
 Repositório destinado a armazenar todas as pautas das reuniões realizadas pelo Grupo de Estudos.
 
 - ***Resumo das reuniões***
+    - [5º Reunião](5_reuniao_30_01_2018.md)
+        - Quarta reunião do Grupo de Estudos.
+            - Síntese da reunião:
+                - Apresentação dos participantes
+                - Projetos Intermediários
+                    - To Do Lists
+                    - Guia de perguntas para a certificação 
+                - Análise das pendências
+                - Próxima Reunião
     - [4º Reunião](4_reuniao_13_12_2017.md)
         - Quarta reunião do Grupo de Estudos.
             - Síntese da reunião:
-                - Metodologia de estudos 
+                - Metodologia de estudos
                 - Periodicidade
                 - Lideranças
                 - Documentação
