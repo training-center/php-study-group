@@ -8,7 +8,7 @@
 
 __Descrição__
 
-Desenvolver uma aplicação de calculo de IMC utilizando os conhecimentos adquiridos referente ao [RoadMap de nível Intermediário.](https://github.com/training-center/php-study-group/blob/master/material_de_apoio/roadmap/intermediario.md)
+Desenvolver uma aplicação de TodoList utilizando os conhecimentos adquiridos referente ao [RoadMap de nível Intermediário.](https://github.com/training-center/php-study-group/blob/master/material_de_apoio/roadmap/intermediario.md)
 Caso você desconheça ou ainda não tenha feito, pode acessar o [RoadMap do grupo de estudos de PHP/POO.](https://github.com/training-center/php-study-group/tree/master/material_de_apoio/roadmap)
 
 __Objetivo__
