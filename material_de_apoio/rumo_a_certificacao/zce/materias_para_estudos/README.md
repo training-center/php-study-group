@@ -11,7 +11,7 @@ Repositório dstidanado a listar materiais de apoio referente a certificação.
     - [Preparatório para a certificação PHP](https://leanpub.com/certificacaophp/)
     - [Zend Certified Engineer](https://www.casadocodigo.com.br/products/livro-certificacao-php)
 - Newsletters
-    - [A Semana PHP](http://asemanaphp.com.br)/
+    - [A Semana PHP](http://asemanaphp.com.br)
 - Projetos
 - RoadMap
 - Sites
