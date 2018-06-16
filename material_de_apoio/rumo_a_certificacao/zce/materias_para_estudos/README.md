@@ -20,3 +20,4 @@ Repositório dstidanado a listar materiais de apoio referente a certificação.
     - 
 - Sites
     - [php.net](http://php.net/docs.php)
+    - [Zend](http://www.zend.com/en/services/certification/php-certification)

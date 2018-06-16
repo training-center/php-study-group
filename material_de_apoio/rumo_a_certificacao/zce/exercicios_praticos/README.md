@@ -2,17 +2,17 @@
 
 Lista de repositórios para exercícios segmentados por tema.
 
-- [php basics](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/php_basics)
-- [functions](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/functions)
-- [data format & types](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/data_format_e_types)
-- [web features](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/web_features)
-- [object oriented programming](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/object_oriented_programming)
-- [security](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/security)
-- [i/o](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/io)
-- [strings & patterns](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/strings_e_patterns)
-- [databases & sql](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/databases_e_sql)
-- [arrays](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/arrays)
-- [error handling](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/error_handling)
+- [php basics](php_basics)
+- [functions](functions)
+- [data format & types](data_format_e_types)
+- [web features](web_features)
+- [object oriented programming](object_oriented_programming)
+- [security](security)
+- [i/o](io)
+- [strings & patterns](strings_e_patterns)
+- [databases & sql](databases_e_sql)
+- [arrays](arrays)
+- [error handling](error_handling)
 
 ### Formato para criação dos arquivos para exercícios
 
@@ -23,4 +23,4 @@ Lista de repositórios para exercícios segmentados por tema.
 
 ### Formato do documento de exercício
 
-- [Modelo de documento](material_de_apoio/rumo_a_certificacao/zce/excercicios_praticos/modelo_arquivo_exerciocio.md)
+- [Modelo de documento](modelo_arquivo_exerciocio.md)
