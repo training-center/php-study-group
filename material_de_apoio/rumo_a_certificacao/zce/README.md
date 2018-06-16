@@ -3,4 +3,4 @@
 ### Indice
 - [Tópicos da prova](topicos_da_prova.md)
 - [Materias para estudos](materias_para_estudos)
-- [Exercícios práticos](excercicios_praticos)
+- [Exercícios práticos](exercicios_praticos)
