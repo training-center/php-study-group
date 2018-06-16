@@ -28,6 +28,7 @@ Basta entrar no [Slack do Training Center](https://github.com/training-center/sl
 - [newsletters](/material_de_apoio/newsletters)
 - [Projetos](/material_de_apoio/desafios/projetos)
 - [RoadMap](/material_de_apoio/roadmap)
+- [Rumo a Certificação](material_de_apoio/rumo_a_certificacao)
 - [sites](/material_de_apoio/sites)
 - [trilha de estudos](material_de_apoio/roadmap)
 
