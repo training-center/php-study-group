@@ -6,7 +6,7 @@ Lista de questões simuladas para a prova da certificação.
 
 ***Formato para criação dos arquivos para exercícios***
 
-- Todo sinulado deve ser mantido dentro do dirório correlato a sua certificação.
+- Todo simulado deve ser mantido dentro do dirório correlato a sua certificação.
 - O nome do arquivo deve seguir o padrão `{TITULO_DA_QUESTAO}.md`
     - Exemplo: `array_sort.md`
 - A nova questão deve ser inserído no índice do módulo ao qual ele pertence, em ordem alfabética.
