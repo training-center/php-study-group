@@ -2,5 +2,5 @@
 
 Repositório destinado aos exercícios práticos relacionados a arrays
 
-### Lista de exerçícios
+### Lista de exercícios
 - 

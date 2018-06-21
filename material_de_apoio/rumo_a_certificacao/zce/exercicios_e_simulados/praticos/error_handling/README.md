@@ -2,5 +2,5 @@
 
 Repositório destinado aos exercícios práticos relacionados a Error Handling
 
-### Lista de exerçícios
+### Lista de exercícios
 - 

@@ -2,5 +2,5 @@
 
 Repositório destinado aos exercícios práticos relacionados a Data Format & Types
 
-### Lista de exerçícios
+### Lista de exercícios
 - 

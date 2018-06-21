@@ -2,5 +2,5 @@
 
 Repositório destinado aos exercícios práticos relacionados a Object Oriented Programming
 
-### Lista de exerçícios
+### Lista de exercícios
 - 
