@@ -21,15 +21,16 @@ Basta entrar no [Slack do Training Center](https://github.com/training-center/sl
 
 ## Material de apoio ao grupo de estudos
 
-- [comunidades](/material_de_apoio/comunidades)
-- [cursos](/material_de_apoio/cursos)
-- [eventos](/material_de_apoio/eventos)
-- [livros](/material_de_apoio/livros)
-- [newsletters](/material_de_apoio/newsletters)
+- [Comunidades](/material_de_apoio/comunidades)
+- [Cursos](/material_de_apoio/cursos)
+- [Eventos](/material_de_apoio/eventos)
+- [Livros](/material_de_apoio/livros)
+- [Newsletters](/material_de_apoio/newsletters)
 - [Projetos](/material_de_apoio/desafios/projetos)
 - [RoadMap](/material_de_apoio/roadmap)
-- [sites](/material_de_apoio/sites)
-- [trilha de estudos](material_de_apoio/roadmap)
+- [Rumo a Certificação](material_de_apoio/rumo_a_certificacao)
+- [Sites](/material_de_apoio/sites)
+- [Trilha de estudos](material_de_apoio/roadmap)
 
 ## Responsáveis
 
