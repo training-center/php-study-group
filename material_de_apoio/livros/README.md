@@ -4,7 +4,7 @@ Repositório destinado a listar livros impressos ou e-books gratuitos ou pagos a
 
 ### Impressos   
 
-- [PHP Programando com Orientação a Objetos - 3ª Edição.](https://novatec.com.br/livros/php-orientacao-objetos-3ed/)
+- [PHP Programando com Orientação a Objetos - 4ª Edição.](https://novatec.com.br/livros/php-orientacao-objetos-4ed/)
 - [PHP para quem conhece PHP - 5ª Edição.](https://novatec.com.br/livros/php-para-quem-conhece-php-5ed/)
 - [Desenvolvendo Websites com PHP - 3ª Edição.](https://novatec.com.br/livros/desenvolvendo-websites-com-php-3ed/)
 - [Aprendendo Padrões de Projeto em PHP.](https://novatec.com.br/livros/padroes-projeto-php/)
